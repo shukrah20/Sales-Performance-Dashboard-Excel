@@ -7,6 +7,8 @@ To help a sales manager see which products, sales reps, cities and regions drive
 
 This project analyses 2,098 sales transactions from January to early May 2025 for a retail business selling electronics, furniture and home appliances across four Nigerian cities (Lagos, Kano, Abuja and Port Harcourt). The goal was to calculate core business KPIs, identify top performers, and present the results in an interactive Excel dashboard.
 
+   **Download the Excel file:** [Sales_Performance_Dashboard.xlsx](https://1drv.ms/x/c/9211CDC3FC9B8699/IQD_RAwT3CctSqm0fI0gjJH-AbBTKih4ODRb3q3tKGiqUgM?e=JQCsCL)
+   
 **Tools used:** Excel Tables, Power Query, calculated columns, PivotTables, Pivot Charts, Slicers and a dashboard layout.
 
 **Data source:** Data Analytics/TS Academy, *Project Curriculum*
